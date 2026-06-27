@@ -1,6 +1,12 @@
 <h1 align="center">Hi, I'm Tejas Raj 👋</h1>
 <h3 align="center">Software Engineering Undergrad & Open Source Enthusiast</h3>
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejas-Raj01&show_icons=true&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Raj01&layout=compact&theme=radical&hide_border=true" width="45%" />
+</p>
+
 <p align="center">
   <a href="https://linkedin.com/in/tejas-raj01">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -42,12 +48,6 @@
 *   **[NexusMatch](https://github.com/Tejas-Raj01/NexusMatch):** AI-powered career platform using FastAPI, LangChain, and Redis for real-time resume processing.
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejas-Raj01&show_icons=true&theme=radical&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Raj01&layout=compact&theme=radical&hide_border=true" width="45%" />
-</p>
 
 ---
 <p align="center">
