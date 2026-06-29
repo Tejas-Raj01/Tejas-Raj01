@@ -1,7 +1,7 @@
 <!-- Stats Cards (Sabse Upar) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejas-Raj01&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Tejas-Raj01&show=prs_merged,issues,contributions&theme=radical&hide_border=true" width="48%" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejas-Raj01&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&v=1" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejas-Raj01&show=prs_merged,issues,contributions&theme=radical&hide_border=true&v=1" width="48%" />
 </p>
 
 <p align="center">
